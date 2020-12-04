@@ -25,6 +25,7 @@ header {
 }
 nav ul {
     background-color: black;
+    color: #fffdc8;
     box-sizing: border-box;
     padding: 0%;
     list-style-type: none;
